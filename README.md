@@ -4,17 +4,17 @@ A list of cheat sheets for front-end development and JavaScript programmer.
 
 ## Contents
 
-- [HTML/HTML5](#HTML/HTML5)
-- [CSS/CSS3](#CSS/CSS3)
+- [HTML and HTML5](#html-and-html5)
+- [CSS and CSS3](#css-and-css3)
 
 ---
 
-## HTML/HTML5
+## HTML and HTML5
 
 ### Contents
 
-- [Document Summary](#DocumentSummary)
-- [Document Information](#DocumentInformation)
+- [Document Summary](#document-summary)
+- [Document Information](#document-information)
 
 ### Document Summary
 
@@ -42,3 +42,11 @@ These tags are lie in `<head>`.
 | `<link />` | external resources    | rel, href | no |
 | `<style>...</style>` | can be used for CSS    | much | no |
 | `<script>...</script>` | can be used for JavaScript<br /> or links to external scripts    | type | no |
+
+
+
+
+
+
+
+### forms
